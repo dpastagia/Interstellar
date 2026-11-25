@@ -173,8 +173,3 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 > [!TIP]
 > If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
 
-# Credits
-
-A huge thanks goes out to all of the people who have contributed to Interstellar.
-
-[![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
